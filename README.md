@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ynk-Shaun.Ynk-Shaun" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=400&lines=Hi+There!+👋;+I'm+Shaun+Basson!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=1500&lines=Hi+There!+👋;+I'm+Shaun+Basson!;" />
 </h1>
 
 <h3 align="center">A passionate DevOps/Infra Engineer</h3>
