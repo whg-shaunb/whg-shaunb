@@ -16,7 +16,7 @@
 
 💬 Ask me about **Datadog, Terraform or Python**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **In the world of SRE, "Toil" refers to repetitive, manual tasks that could be automated.**
 
  </div>
  
