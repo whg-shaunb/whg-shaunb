@@ -40,3 +40,5 @@
     <img src="https://skillicons.dev/icons?i=vscode,github,terraform" />
     <img src="https://skillicons.dev/icons?i=python,aws,jenkins" /><br>
 </div>
+
+#adding test rule 
