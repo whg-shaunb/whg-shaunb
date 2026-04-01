@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Shaun+Basson!;" />
 </h1>
 
-<h3 align="center">A passionate Monitoring Engineer</h3>
+<h3 align="center">A passionate Site Reliability Engineer</h3>
 
 <br/>
 
@@ -12,7 +12,7 @@
  
  🔭 I’m currently working for **White Hat Gaming**
  
- 🌱 I’m currently learning **Docker & AWS**
+ 🌱 I’m currently perfecting my skills in **Kubernetes & AWS**
 
 💬 Ask me about **Datadog, Terraform or Python**
 
